@@ -77,4 +77,4 @@ de análisis lo detecten. **No lo apliques en cuentas reales**. Sirve solo para 
 
 ---
 
-© 2025 Tu Nombre. Licencia MIT.
+© 2025 Anderson Parra. Licencia MIT.
