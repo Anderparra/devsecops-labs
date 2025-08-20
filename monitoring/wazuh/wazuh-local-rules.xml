@@ -1,0 +1,8 @@
+<group name="local,">
+  <!-- Demo rule to alert on nmap execution -->
+  <rule id="100001" level="7">
+    <if_group>sysmon</if_group>
+    <field name="win.eventdata.Image">.*nmap.exe</field>
+    <description>Suspicious tool executed: nmap</description>
+  </rule>
+</group>
